@@ -1,3 +1,10 @@
+##20170416学习redux
+用的官方实例代码
+create-react-app创建项目
+
+##===========================================
+##====以下内容为create-react-app创建的内容====
+##===========================================
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
